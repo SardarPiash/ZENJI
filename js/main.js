@@ -224,7 +224,7 @@ function initNewsletter() {
       e.preventDefault();
       var input = form.querySelector("input[type='email']");
       if (input && input.value.trim()) {
-        alert("You're on the list");
+        showToast("You're on the list");
         input.value = "";
       }
     });

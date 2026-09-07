@@ -231,7 +231,8 @@ ul {
   height: 42px;
   border: 1px solid var(--border);
   cursor: pointer;
-  place-items: center;
+  align-items: center;
+  justify-content: center;
   flex-direction: column;
   gap: 5px;
 }
