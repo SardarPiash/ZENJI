@@ -1,9 +1,8 @@
 {
-  "redirects": [
+  "rewrites": [
     {
       "source": "/gateway",
-      "destination": ":target",
-      "permanent": true
+      "destination": "/api/gateway"
     }
   ]
 }
