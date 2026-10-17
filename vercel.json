@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/gateway",
+      "destination": ":target",
+      "permanent": true
+    }
+  ]
+}
