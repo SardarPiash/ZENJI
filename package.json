@@ -1,0 +1,15 @@
+{
+  "name": "zenji",
+  "version": "1.0.0",
+  "description": "A frontend build for **ZENJI**, an anime-inspired streetwear brand.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SardarPiash/ZENJI.git"
+  },
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@vercel/functions": "^3.10.1"
+  },
+  "private": true
+}
